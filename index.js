@@ -26,3 +26,6 @@ tutorials = tutorials.map(function (tutorials) {
     }
     return (tutorials = newString);
 });
+const titleCased = () => {
+  return tutorials
+}
